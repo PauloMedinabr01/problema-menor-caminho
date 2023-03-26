@@ -105,7 +105,6 @@ public class ListaDeCompras {
             k++;
             l--;
         }
-
         return true;
     }
 
